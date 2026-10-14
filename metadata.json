@@ -1,0 +1,6 @@
+{
+  "name": "Medic Ambulance",
+  "description": "Ultra-modern on-demand ambulance booking app with inDrive fare bidding, 3D live map dispatch, and offline triple-tap emergency SMS fallback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
